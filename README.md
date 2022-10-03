@@ -13,9 +13,9 @@ JavaScript
 
 # Website
 
-Deployed webpage:
+Deployed webpage: https://mxcaz.github.io/Aleatory-Pasword-Generator/
 
-Github account:https://github.com/MXCAZ
+Github account: https://github.com/MXCAZ
 
 # This is a password generator for the javascript challenge
 
